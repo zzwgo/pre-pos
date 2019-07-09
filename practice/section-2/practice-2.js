@@ -1,6 +1,7 @@
 'use strict';
 
 function countSameElements(collection) {
+  // .
   var arr = []; 
   var result = [];
   for(let i of collection){
